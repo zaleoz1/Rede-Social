@@ -20,7 +20,7 @@ public class terminal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Usuario adm = new Usuario();
+        Usuario adm = new Usuario("", "", "");
         Pessoa junior = new Pessoa("Joselito", "Junior@gmail", "jun10r");
         Pessoa gustavo = new Pessoa("Gustavo", "Gustavo@gmail", "gust4v0");
         Empresa barzin = new Empresa("1231123", "Viagens_a_Lua", "Espasso", "LuaViagens@gmail", "123lua4lua321");

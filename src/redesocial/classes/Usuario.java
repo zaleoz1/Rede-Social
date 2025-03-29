@@ -18,9 +18,7 @@ public class Usuario {
     private ArrayList<Empresa> listaEmpresa = new ArrayList();
     //construtor//
 
-    public Usuario() {
-        //construtot vazio
-    }
+    
 
     public Usuario(String nomeUsuario, String email, String senha) {
         this.nomeUsuario = nomeUsuario;

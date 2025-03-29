@@ -7,9 +7,11 @@ public class Pessoa extends Usuario {
     public String descr;
     public ArrayList<Usuario> lista_de_amigos = super.listaAmigo;
     //costrutor
-    public Pessoa() {
-        
+
+    public Pessoa(String nomeUsuario, String email, String senha) {
+        super(nomeUsuario, email, senha);
     }
+    
     //teste
     
     public Pessoa(String descr, String nomeUsuario, String email, String senha) {
