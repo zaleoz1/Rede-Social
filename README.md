@@ -34,7 +34,7 @@ Este repositório implementa um sistema de rede social utilizando Java, permitin
 - Swing
   
 ### imagens do projeto
-<img src="https://imgur.com/a/Jyde65r"></img>
+<img src="https://i.imgur.com/3mqeDF6.png"></img>
 
 ### Contribuição
 
