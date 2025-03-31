@@ -14,3 +14,13 @@ Este repositório implementa um sistema de rede social utilizando Java, permitin
 - Atualização e remoção de perfis
 
 - Listagem de usuários e empresas cadastradas
+
+### Estrutura do Projeto
+
+- O projeto é composto pelas seguintes classes principais:
+
+- Usuario.java: Classe base para usuários da rede social.
+
+- Pessoa.java: Representa um usuário do tipo pessoa.
+
+- Empresa.java: Representa um usuário do tipo empresa.
