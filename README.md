@@ -32,9 +32,9 @@ Este repositório implementa um sistema de rede social utilizando Java, permitin
 - Estruturas de dados com ArrayList
 
 - Swing
-
+  
 ### imagens do projeto
-
+<img src="https://imgur.com/a/Jyde65r"></img>
 
 ### Contribuição
 
