@@ -32,3 +32,8 @@ Este repositório implementa um sistema de rede social utilizando Java, permitin
 - Estruturas de dados com ArrayList
 
 - Swing
+
+
+### Contribuição
+
+Se deseja contribuir com melhorias, faça um fork deste repositório, crie uma nova branch e envie um pull request!
