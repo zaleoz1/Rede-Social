@@ -24,3 +24,11 @@ Este repositório implementa um sistema de rede social utilizando Java, permitin
 - Pessoa.java: Representa um usuário do tipo pessoa.
 
 - Empresa.java: Representa um usuário do tipo empresa.
+
+### Tecnologias Utilizadas
+
+- Java
+
+- Estruturas de dados com ArrayList
+
+- Swing
