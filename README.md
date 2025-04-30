@@ -1,41 +1,26 @@
-# Rede-Social
-Trabalho JAVA POO
 
-Este repositório implementa um sistema de rede social utilizando Java, permitindo a criação e gerenciamento de usuários, empresas e amizades.
+# Rede Social
 
-### Funcionalidades
+Este repositório contém o projeto **"Rede Social"**, desenvolvido como parte do trabalho de **JAVA POO** (Programação Orientada a Objetos). O objetivo deste projeto é aplicar os conceitos de POO em Java para criar uma aplicação funcional.
 
-- Cadastro de usuários (pessoas e empresas)
+## Descrição
 
-- Gerenciamento de amizades entre pessoas
+A **Rede Social** é uma aplicação desenvolvida em Java que simula uma rede social, permitindo interação entre usuários. Este projeto foi idealizado como parte de um trabalho acadêmico para demonstrar o uso de classes, objetos, encapsulamento, herança e outros conceitos fundamentais da Programação Orientada a Objetos.
 
-- Empresas podem cadastrar produtos
+## Linguagem
 
-- Atualização e remoção de perfis
+O projeto é completamente desenvolvido em **Java**, representando 100% da composição do código do repositório.
 
-- Listagem de usuários e empresas cadastradas
+## Funcionalidades
 
-### Estrutura do Projeto
+- Cadastro de usuários.
+- Criação de postagens.
+- Interação entre usuários (curtidas, comentários, etc.).
+- Sistema de autenticação básico.
 
-- O projeto é composto pelas seguintes classes principais:
+## Como Executar
 
-- Usuario.java: Classe base para usuários da rede social.
-
-- Pessoa.java: Representa um usuário do tipo pessoa.
-
-- Empresa.java: Representa um usuário do tipo empresa.
-
-### Tecnologias Utilizadas
-
-- Java
-
-- Estruturas de dados com ArrayList
-
-- Swing
-  
-### imagens do projeto
-<img src="https://i.imgur.com/3mqeDF6.png"></img>
-
-### Contribuição
-
-Se deseja contribuir com melhorias, faça um fork deste repositório, crie uma nova branch e envie um pull request!
+1. Certifique-se de ter o **Java** instalado na sua máquina.
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/zaleoz1/Rede-Social.git
